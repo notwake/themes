@@ -1,11 +1,11 @@
 {
-    "name": "netheme",
-    "description": "Custom made theme made by notawake.json.",
+    "name": "nextheme",
+    "description": "Nexus Theme made by notawake.json.",
     "version": "1.6",
     "authors": [
       {
         "name": "notawake.json",
-        "id": "705853948052897813"
+        "id": "759037138929975297"
       }
     ],
     "theme_color_map": {
@@ -152,7 +152,7 @@
     },
     "background": {
       "blur": 0.1,
-      "url": "https://raw.githubusercontent.com/Mortyick/enmity-themes/main/background/backgruundig.png",
+      "url": "https://nexus-hosting.tech/files/nexlogotheme.png",
       "alpha": 1.0
     }
   }
